@@ -1,9 +1,9 @@
 body{
-	background-color: darkolivegreen;
+	background-color: blue;
 }
 header{
 	height: 350px;
-	background-color: mediumseagreen;
+	background-color: black;
 	
 }
 .bgvideo{
@@ -25,24 +25,24 @@ header{
 }
 h1{
 	z-index: 2;
-	color: greenyellow;
+	color: black;
 }
 h2{
 	text-align: center;
 }
 nav,aside{
 	width: 15%;
-	background-color: limegreen;
+	background-color: dodgerblue;
 	float: left;
 }
 main{
 	width: 70%;
-	background-color: forestgreen;
+	background-color: #6495ED;
 	float: left;
 }
 footer{
 	height: 200px;
-	background-color: seagreen;
+	background-color: #4682B4;
 	clear: both;
 }
 article{
@@ -67,12 +67,12 @@ a{
 .button-68 {
   appearance: none;
   backface-visibility: hidden;
-  background-color: #27ae60;
+  background-color: #66CDAA;
   border-radius: 8px;
   border-style: none;
   box-shadow: rgba(39, 174, 96, .15) 0 4px 9px;
   box-sizing: border-box;
-  color: #fff;
+  color: #008B8B;
   cursor: pointer;
   display: inline-block;
   font-family: Inter,-apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif;
